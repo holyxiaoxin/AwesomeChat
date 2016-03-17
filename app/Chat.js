@@ -1,5 +1,6 @@
 'use strict';
 import _ from 'lodash';
+import Firebase from 'firebase';
 import React, {
   Component,
   StyleSheet,

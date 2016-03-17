@@ -5,10 +5,10 @@ import React, {
   Component,
 } from 'react-native';
 
-class AwesomeProject extends Component {
+class AwesomeChat extends Component {
   render() {
     return <App/>;
   }
 }
 
-AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
+AppRegistry.registerComponent('AwesomeChat', () => AwesomeChat);
