@@ -1,3 +1,6 @@
+[ ![Build Status](https://codeship.com/projects/586113e0-cef6-0133-1450-7e089c4a4edf/status?branch=master)](https://codeship.com/projects/141093)
+
+
 ### Building for the first time
 
 You are assumed to have worked on [React-Native](https://facebook.github.io/react-native/docs/getting-started.html#content) before.
