@@ -1,0 +1,3 @@
+--compilers js:babel-core/register
+--require react-native-mock/mock.js
+--require test/setup.js
